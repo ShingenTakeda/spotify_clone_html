@@ -1,0 +1,12 @@
+.h1-style{
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+}
+
+body{
+    font-size: 100%;
+    font-family: "Poppins";
+    list-style-type: none;
+}
+  
